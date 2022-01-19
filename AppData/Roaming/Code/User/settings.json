@@ -1,0 +1,33 @@
+{
+    "editor.fontFamily": "Hack Nerd Font Mono",
+    "editor.fontWeight": "bold",
+    "editor.renderControlCharacters": true,
+    "explorer.confirmDelete": false,
+    "extensions.ignoreRecommendations": true,
+    "files.associations": {
+        "*.yml": "yaml"
+    },
+    "files.eol": "\n",
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "underline",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "update.mode": "manual",
+    "workbench.colorTheme": "Monokai",
+    "workbench.enableExperiments": false,
+
+    "go.useLanguageServer": true,
+    "gopls": {
+        "ui.completion.usePlaceholders": true
+    },
+
+    "[php]": {
+        "editor.defaultFormatter": "junstyle.php-cs-fixer",
+        "editor.formatOnSave": true
+    },
+    "php-cs-fixer.config": "C:/Dev/php_cs/.php-cs-fixer.php",
+    "php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer.phar",
+
+    "redhat.telemetry.enabled": true,
+    "yaml.format.singleQuote": true
+}

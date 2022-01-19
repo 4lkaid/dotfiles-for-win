@@ -1,0 +1,15 @@
+[commit]
+    template = ~/.commit.template
+[core]
+    autocrlf = input
+[diff]
+    tool = vimdiff
+[http]
+    sslVerify = false
+[init]
+    defaultBranch = main
+[merge]
+    tool = vimdiff
+[user]
+    name = 4lkaid
+    email = 4lkaid@gmail.com
